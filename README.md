@@ -8,9 +8,9 @@ The software designed to search and maintain the data of the students of the tec
 
 <table width="100%">
   <tr>
-    <td> <img src="readme1.jpeg" alt="image error" width="100%"></td>
-    <td> <img src="readme2.jpeg" alt="image error" width="100%"></td>
-    <td> <img src="readme3.jpeg" alt="image error" width="100%"></td>
-    <td> <img src="readme4.jpeg" alt="image error" width="100%"></td>
+    <td> <img src="img/readme1.jpeg" alt="image error" width="100%"></td>
+    <td> <img src="img/readme2.jpeg" alt="image error" width="100%"></td>
+    <td> <img src="img/readme3.jpeg" alt="image error" width="100%"></td>
+    <td> <img src="img/readme4.jpeg" alt="image error" width="100%"></td>
   </tr>
 </table>  
