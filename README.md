@@ -10,6 +10,8 @@ The software designed to search and maintain the data of the students of the tec
   <tr>
     <td> <img src="img/readme1.jpeg" alt="image error" width="100%"></td>
     <td> <img src="img/readme2.jpeg" alt="image error" width="100%"></td>
+  </tr>
+  <tr>
     <td> <img src="img/readme3.jpeg" alt="image error" width="100%"></td>
     <td> <img src="img/readme4.jpeg" alt="image error" width="100%"></td>
   </tr>
